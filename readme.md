@@ -8,10 +8,10 @@
 
 ### Developed using ESP32 + Arduino LilyPad
 
-[![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)]
-[![Arduino](https://img.shields.io/badge/Arduino-LilyPad-blue?style=for-the-badge)]
-[![MQTT](https://img.shields.io/badge/MQTT-Protocol-green?style=for-the-badge)]
-[![IoT](https://img.shields.io/badge/Home-Automation-orange?style=for-the-badge)]
+![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-LilyPad-blue?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-Protocol-green?style=for-the-badge)
+![IoT](https://img.shields.io/badge/Home-Automation-orange?style=for-the-badge)
 
 </div>
 
