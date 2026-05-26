@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="hardware/reactor_design.png" width="450"/>
+<img src="hardware/reactor_diagram.png" width="450"/>
 
 # Futuristic Wearable IoT Automation System
 
